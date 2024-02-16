@@ -141,7 +141,7 @@ X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.1, random_s
 print("X_train: {}".format(X_train.shape))
 print("X_test: {}".format(X_test.shape))
 print("y_train: {}".format(y_train.shape))
-print("y_train: {}".format(y_train.shape))
+print("y_test: {}".format(y_train.shape))
 
 
 #Logistic Regression
